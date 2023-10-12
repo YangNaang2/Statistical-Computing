@@ -1,1 +1,1 @@
-# testing
+# 전산 통계학 Master. 데이터 분석.
