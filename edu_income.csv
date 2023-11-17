@@ -1,0 +1,97 @@
+Nation,Education,income_c
+Austria,High,Low
+Norway,High,Low
+Denmark,High,Low
+Sweden,High,Low
+Norway,College,Low
+Finland,High,Low
+New Zealand,High,Low
+Slovak Republic,High,Low
+Denmark,College,Low
+Australia,High,Low
+Belgium,High,Low
+New Zealand,College,Low
+Sweden,College,Low
+Czech Republic,High,Low
+Estonia,High,Low
+Greece,High,Low
+Netherlands,High,Low
+Australia,College,Low
+Norway,Graduate,Low
+Korea,High,Low
+EU25,High,Low
+Bulgaria,High,Low
+Greece,College,Low
+United Kingdom,High,Low
+Luxembourg,High,Low
+Poland,High,Low
+Korea,College,Low
+Canada,High,Medium
+Slovenia,High,Medium
+Belgium,College,Medium
+Estonia,College,Medium
+Finland,College,Medium
+Denmark,Graduate,Medium
+Sweden,Graduate,Medium
+Spain,High,Medium
+Ireland,High,Medium
+United Kingdom,College,Medium
+Canada,College,Medium
+Australia,Graduate,Medium
+Estonia,Graduate,Medium
+Netherlands,College,Medium
+New Zealand,Graduate,Medium
+France,High,Medium
+Germany,High,Medium
+Mexico,High,Medium
+Luxembourg,College,Medium
+Slovak Republic,College,Medium
+Hungary,High,Medium
+EU25,College,Medium
+Slovak Republic,Graduate,Medium
+Israel,High,Medium
+Austria,College,Medium
+Poland,College,Medium
+Belgium,Graduate,Medium
+Luxembourg,Graduate,Medium
+Czech Republic,College,Medium
+Ireland,College,Medium
+Mexico,College,Medium
+United Kingdom,Graduate,Medium
+Canada,Graduate,Medium
+Poland,Graduate,Medium
+Germany,College,Medium
+Finland,Graduate,Medium
+Lithuania,High,Medium
+Czech Republic,Graduate,Medium
+United States,High,Medium
+Slovenia,College,Medium
+Greece,Graduate,Medium
+Austria,Graduate,Medium
+EU25,Graduate,Medium
+Spain,College,Medium
+France,College,Medium
+Bulgaria,College,Medium
+Korea,Graduate,Medium
+Netherlands,Graduate,Medium
+Israel,College,Medium
+Lithuania,College,High
+Hungary,College,High
+Slovenia,Graduate,High
+Germany,Graduate,High
+Ireland,Graduate,High
+Spain,Graduate,High
+Bulgaria,Graduate,High
+United States,College,High
+France,Graduate,High
+Lithuania,Graduate,High
+Israel,Graduate,High
+Costa Rica,High,High
+Hungary,Graduate,High
+United States,Graduate,High
+Costa Rica,College,High
+Chile,High,High
+Chile,College,High
+Mexico,Graduate,High
+Costa Rica,Graduate,High
+Chile,Graduate,High
